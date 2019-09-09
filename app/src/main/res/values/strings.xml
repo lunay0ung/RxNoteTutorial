@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxNote</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="activity_title_home" translatable="false">Notes</string>
+    <string name="msg_no_notes" translatable="false">No notes found!</string>
+    <string name="lbl_new_note_title" translatable="false">New Note</string>
+    <string name="hint_enter_note" translatable="false">Enter your note!</string>
+</resources>
